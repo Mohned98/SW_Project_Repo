@@ -8,3 +8,7 @@ void main() {
     x = x + 1;
   }
 }
+
+void func() {
+  x = x + 2;
+}
